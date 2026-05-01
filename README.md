@@ -32,28 +32,28 @@ For this analysis:
 - Excel
 ## Methodology
 **Data Preparation**
--Cleaned dataset by removing empty rows and standardising column names
--Converted numeric and date fields
--Filtered jurisdictions to separate state-level and national-level data
+- Cleaned dataset by removing empty rows and standardising column names
+- Converted numeric and date fields
+- Filtered jurisdictions to separate state-level and national-level data
 **Data Modelling**
 Created calculated measures:
--Total Waste Generated
--Total Waste Recovered
--Total Waste Disposed
--Recovery Rate (%)
+- Total Waste Generated
+- Total Waste Recovered
+- Total Waste Disposed
+- Recovery Rate (%)
 **Analysis Approach**
 
 The analysis was structured into:
 
--National overview
--State comparison
--Waste stream analysis
--Trend analysis over time
+- National overview
+- State comparison
+- Waste stream analysis
+- Trend analysis over time
 ## Key Insights
--Waste generation is concentrated in larger states such as NSW and Victoria
--Recovery rates vary significantly between jurisdictions, indicating differences in infrastructure and policy effectiveness
--Certain waste streams (e.g. construction waste) show higher recovery rates compared to municipal waste
--In some cases, waste generation has grown faster than recovery, suggesting increasing pressure on waste systems
+- Waste generation is concentrated in larger states such as NSW and Victoria
+- Recovery rates vary significantly between jurisdictions, indicating differences in infrastructure and policy effectiveness
+- Certain waste streams (e.g. construction waste) show higher recovery rates compared to municipal waste
+- In some cases, waste generation has grown faster than recovery, suggesting increasing pressure on waste systems
 ## Dashboard Preview
 Overview Dashboard
 
@@ -62,7 +62,7 @@ Item 1 State Comparison
 Waste Streams Analysis
 
 ## Limitations
--National totals include estimated and adjusted data
--Differences in reporting methodologies between states may affect comparability
--Some waste streams rely on modelling rather than direct measurement
+- National totals include estimated and adjusted data
+- Differences in reporting methodologies between states may affect comparability
+- Some waste streams rely on modelling rather than direct measurement
 
