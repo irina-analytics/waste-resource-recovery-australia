@@ -35,12 +35,16 @@ For this analysis:
 - Cleaned dataset by removing empty rows and standardising column names
 - Converted numeric and date fields
 - Filtered jurisdictions to separate state-level and national-level data
+  
 **Data Modelling**
+
 Created calculated measures:
+
 - Total Waste Generated
 - Total Waste Recovered
 - Total Waste Disposed
 - Recovery Rate (%)
+  
 **Analysis Approach**
 
 The analysis was structured into:
